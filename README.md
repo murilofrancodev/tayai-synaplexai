@@ -1,3 +1,3 @@
-# MagicAI
+# Tay AI - Synaplex AI
 
 ---
