@@ -20,4 +20,4 @@ jobs:
 
       - name: Deploy para Produção
         run: |
-          ssh -o StrictHostKeyChecking=no -p 2222 synapl15@192.185.212.88 'cd ~/public_html/tayai && git pull origin master'
+          ssh -o StrictHostKeyChecking=no -p 2222 synapl15@192.185.212.88 'cd ~/public_html/tayai && git pull --force origin master'

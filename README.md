@@ -1,3 +1,3 @@
-# Produto Tay AI - Synaplex AI
+# Produto Tay AI - Synaplex.AI
 
 ---
